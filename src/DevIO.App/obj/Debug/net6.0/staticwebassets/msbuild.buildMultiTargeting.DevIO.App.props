@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DevIO.App.props" />
+</Project>

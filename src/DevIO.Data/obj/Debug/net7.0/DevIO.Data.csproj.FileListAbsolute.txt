@@ -1,0 +1,45 @@
+C:\Users\FredPC\Desktop\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\MinhaAppMvcCompleta 6.0\src\DevIO.Data\bin\Debug\net7.0\DevIO.Data.deps.json
+C:\Users\FredPC\Desktop\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\MinhaAppMvcCompleta 6.0\src\DevIO.Data\bin\Debug\net7.0\DevIO.Data.dll
+C:\Users\FredPC\Desktop\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\MinhaAppMvcCompleta 6.0\src\DevIO.Data\bin\Debug\net7.0\DevIO.Data.pdb
+C:\Users\FredPC\Desktop\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\MinhaAppMvcCompleta 6.0\src\DevIO.Data\bin\Debug\net7.0\DevIO.Business.dll
+C:\Users\FredPC\Desktop\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\MinhaAppMvcCompleta 6.0\src\DevIO.Data\bin\Debug\net7.0\DevIO.Business.pdb
+C:\Users\FredPC\Desktop\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\MinhaAppMvcCompleta 6.0\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.csproj.AssemblyReference.cache
+C:\Users\FredPC\Desktop\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\MinhaAppMvcCompleta 6.0\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FredPC\Desktop\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\MinhaAppMvcCompleta 6.0\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.AssemblyInfoInputs.cache
+C:\Users\FredPC\Desktop\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\MinhaAppMvcCompleta 6.0\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.AssemblyInfo.cs
+C:\Users\FredPC\Desktop\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\MinhaAppMvcCompleta 6.0\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Users\FredPC\Desktop\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\MinhaAppMvcCompleta 6.0\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.csproj.CopyComplete
+C:\Users\FredPC\Desktop\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\MinhaAppMvcCompleta 6.0\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.dll
+C:\Users\FredPC\Desktop\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\MinhaAppMvcCompleta 6.0\src\DevIO.Data\obj\Debug\net7.0\refint\DevIO.Data.dll
+C:\Users\FredPC\Desktop\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\MinhaAppMvcCompleta 6.0\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.pdb
+C:\Users\FredPC\Desktop\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\MinhaAppMvcCompleta 6.0\src\DevIO.Data\obj\Debug\net7.0\ref\DevIO.Data.dll
+C:\Estudo\Projects\AppMvcCompletaNET6\src\DevIO.Data\bin\Debug\net7.0\DevIO.Data.deps.json
+C:\Estudo\Projects\AppMvcCompletaNET6\src\DevIO.Data\bin\Debug\net7.0\DevIO.Data.dll
+C:\Estudo\Projects\AppMvcCompletaNET6\src\DevIO.Data\bin\Debug\net7.0\DevIO.Data.pdb
+C:\Estudo\Projects\AppMvcCompletaNET6\src\DevIO.Data\bin\Debug\net7.0\DevIO.Business.dll
+C:\Estudo\Projects\AppMvcCompletaNET6\src\DevIO.Data\bin\Debug\net7.0\DevIO.Business.pdb
+C:\Estudo\Projects\AppMvcCompletaNET6\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.csproj.AssemblyReference.cache
+C:\Estudo\Projects\AppMvcCompletaNET6\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\Projects\AppMvcCompletaNET6\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.AssemblyInfoInputs.cache
+C:\Estudo\Projects\AppMvcCompletaNET6\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.AssemblyInfo.cs
+C:\Estudo\Projects\AppMvcCompletaNET6\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Estudo\Projects\AppMvcCompletaNET6\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.csproj.CopyComplete
+C:\Estudo\Projects\AppMvcCompletaNET6\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.dll
+C:\Estudo\Projects\AppMvcCompletaNET6\src\DevIO.Data\obj\Debug\net7.0\refint\DevIO.Data.dll
+C:\Estudo\Projects\AppMvcCompletaNET6\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.pdb
+C:\Estudo\Projects\AppMvcCompletaNET6\src\DevIO.Data\obj\Debug\net7.0\ref\DevIO.Data.dll
+C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.Data\bin\Debug\net7.0\DevIO.Data.deps.json
+C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.Data\bin\Debug\net7.0\DevIO.Data.dll
+C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.Data\bin\Debug\net7.0\DevIO.Data.pdb
+C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.Data\bin\Debug\net7.0\DevIO.Business.dll
+C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.Data\bin\Debug\net7.0\DevIO.Business.pdb
+C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.csproj.AssemblyReference.cache
+C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.AssemblyInfoInputs.cache
+C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.AssemblyInfo.cs
+C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.csproj.CopyComplete
+C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.dll
+C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.Data\obj\Debug\net7.0\refint\DevIO.Data.dll
+C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.Data\obj\Debug\net7.0\DevIO.Data.pdb
+C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.Data\obj\Debug\net7.0\ref\DevIO.Data.dll

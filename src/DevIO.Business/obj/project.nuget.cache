@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lKA1Ug2QDhEKmwvbTqYTfrosZZRZrSVJIlOk0Kf95+C2tuvIa/H5wD0Vt9WfHm9Yz9YCFSsxyBteXt4bseatBw==",
+  "success": true,
+  "projectFilePath": "C:\\Estudo\\Projects\\AppMvcCompletaNET7\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FredPC\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\FredPC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.19\\microsoft.windowsdesktop.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\FredPC\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.19\\microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\FredPC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.19\\microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

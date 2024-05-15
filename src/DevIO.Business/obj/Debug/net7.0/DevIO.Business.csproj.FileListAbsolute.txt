@@ -1,0 +1,36 @@
+C:\Users\FredPC\Desktop\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\MinhaAppMvcCompleta 6.0\src\DevIO.Business\bin\Debug\net7.0\DevIO.Business.deps.json
+C:\Users\FredPC\Desktop\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\MinhaAppMvcCompleta 6.0\src\DevIO.Business\bin\Debug\net7.0\DevIO.Business.dll
+C:\Users\FredPC\Desktop\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\MinhaAppMvcCompleta 6.0\src\DevIO.Business\bin\Debug\net7.0\DevIO.Business.pdb
+C:\Users\FredPC\Desktop\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\MinhaAppMvcCompleta 6.0\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.csproj.AssemblyReference.cache
+C:\Users\FredPC\Desktop\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\MinhaAppMvcCompleta 6.0\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FredPC\Desktop\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\MinhaAppMvcCompleta 6.0\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\FredPC\Desktop\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\MinhaAppMvcCompleta 6.0\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.AssemblyInfo.cs
+C:\Users\FredPC\Desktop\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\MinhaAppMvcCompleta 6.0\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\FredPC\Desktop\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\MinhaAppMvcCompleta 6.0\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.dll
+C:\Users\FredPC\Desktop\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\MinhaAppMvcCompleta 6.0\src\DevIO.Business\obj\Debug\net7.0\refint\DevIO.Business.dll
+C:\Users\FredPC\Desktop\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\MinhaAppMvcCompleta 6.0\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.pdb
+C:\Users\FredPC\Desktop\8A0AD733-6800-4CD4-8D6E-20B24B261D50-05 - AppCompleta - Complexa\MinhaAppMvcCompleta 6.0\src\DevIO.Business\obj\Debug\net7.0\ref\DevIO.Business.dll
+C:\Estudo\Projects\AppMvcCompletaNET6\src\DevIO.Business\bin\Debug\net7.0\DevIO.Business.deps.json
+C:\Estudo\Projects\AppMvcCompletaNET6\src\DevIO.Business\bin\Debug\net7.0\DevIO.Business.dll
+C:\Estudo\Projects\AppMvcCompletaNET6\src\DevIO.Business\bin\Debug\net7.0\DevIO.Business.pdb
+C:\Estudo\Projects\AppMvcCompletaNET6\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.csproj.AssemblyReference.cache
+C:\Estudo\Projects\AppMvcCompletaNET6\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\Projects\AppMvcCompletaNET6\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.AssemblyInfoInputs.cache
+C:\Estudo\Projects\AppMvcCompletaNET6\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.AssemblyInfo.cs
+C:\Estudo\Projects\AppMvcCompletaNET6\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Estudo\Projects\AppMvcCompletaNET6\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.dll
+C:\Estudo\Projects\AppMvcCompletaNET6\src\DevIO.Business\obj\Debug\net7.0\refint\DevIO.Business.dll
+C:\Estudo\Projects\AppMvcCompletaNET6\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.pdb
+C:\Estudo\Projects\AppMvcCompletaNET6\src\DevIO.Business\obj\Debug\net7.0\ref\DevIO.Business.dll
+C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.Business\bin\Debug\net7.0\DevIO.Business.deps.json
+C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.Business\bin\Debug\net7.0\DevIO.Business.dll
+C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.Business\bin\Debug\net7.0\DevIO.Business.pdb
+C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.csproj.AssemblyReference.cache
+C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.AssemblyInfoInputs.cache
+C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.AssemblyInfo.cs
+C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.dll
+C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.Business\obj\Debug\net7.0\refint\DevIO.Business.dll
+C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.Business\obj\Debug\net7.0\DevIO.Business.pdb
+C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.Business\obj\Debug\net7.0\ref\DevIO.Business.dll
