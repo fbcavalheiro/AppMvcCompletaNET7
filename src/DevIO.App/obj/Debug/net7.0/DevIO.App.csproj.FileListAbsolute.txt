@@ -1219,3 +1219,4 @@ C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.App\obj\Debug\net7.0\refint\DevI
 C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.App\obj\Debug\net7.0\DevIO.App.pdb
 C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.App\obj\Debug\net7.0\DevIO.App.genruntimeconfig.cache
 C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.App\obj\Debug\net7.0\ref\DevIO.App.dll
+C:\Estudo\Projects\AppMvcCompletaNET7\src\DevIO.App\obj\Debug\net7.0\DevIO.App.sourcelink.json

@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DevIO.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54eaf2b604c729d0a85a2a856da19dfd97c0fa89")]
 [assembly: System.Reflection.AssemblyProductAttribute("DevIO.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DevIO.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
